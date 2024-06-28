@@ -3,7 +3,7 @@
 
 🌱. I'm currently a student at Polytech Sorbonne studying computer science and electrical engineering.
 
-📫. Feel free to reach out to me through my [LinkedIn account](https://www.linkedin.com/in/inessa-kechek/) or through my [email](inessa.kechek@etu.sorbonne-universite.fr)
+📫. Feel free to reach out to me through my [LinkedIn account](https://www.linkedin.com/in/inessa-kechek/) or through my email (inessa.kechek@etu.sorbonne-universite.fr)
 <!---
 inessa-kch/inessa-kch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
