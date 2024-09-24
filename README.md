@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Inessa Kechek :)
 👀. I'm passionate about exploring the vastness of space and the wonders of astronomy.
 
-🌱. I'm currently a student at Polytech Sorbonne studying computer science and electrical engineering.
+🌱. I'm currently a student at Polytech Sorbonne studying embedded systems.
 
 📫. Feel free to reach out to me through my [LinkedIn account](https://www.linkedin.com/in/inessa-kechek/) or through my email [inessa.kechek@etu.sorbonne-universite.fr](mailto:inessa.kechek@etu.sorbonne-universite.fr)
 
